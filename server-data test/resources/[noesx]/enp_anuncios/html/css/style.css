@@ -1,0 +1,104 @@
+body {
+    background-color: transparent !important;
+}
+
+.template, .anuncios {
+    display: none;
+}
+
+.enp-anuncios {
+    height: 190px;
+    width: 540px;
+    position: absolute;
+    right: 33%;
+    bottom:0%;
+    display: flex;
+
+}
+
+.anuncios {
+    width: 500px;
+    font: caption;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 12%;
+    margin: 0px 0;
+    overflow: hidden;
+    border-radius: 0px;
+    font-family: sans-serif;
+    position: relative;
+    height: auto;
+    word-wrap: break-word;
+}
+
+.lspd {
+    background-image:url("../imagenes/banner_police.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.ems {
+    background-image:url("../imagenes/banner_ambulance.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.mecanico {
+    background-image:url("../imagenes/banner_mechanic.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.taxi {
+    background-image:url("../imagenes/banner_taxi.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.bennys {
+    background-image:url("../imagenes/banner_bennys.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.galaxy {
+    background-image:url("../imagenes/banner_galaxy.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.matutino {
+    background-image:url("../imagenes/banner_matutino.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.pearls {
+    background-image:url("../imagenes/banner_pearls.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.vanilla {
+    background-image:url("../imagenes/banner_vanilla.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
